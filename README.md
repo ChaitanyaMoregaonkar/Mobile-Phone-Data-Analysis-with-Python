@@ -40,10 +40,10 @@ No strong correlation was found between price and user ratings.
 
 📂 Project Structure
 
-├── Project.ipynb         # Jupyter Notebook with code and analysis
-├── Data.csv              # Dataset used for analysis
-├── Visuals/              # Generated visualizations
-└── README.md             # Project overview and details
+Project.ipynb         # Jupyter Notebook with code and analysis
+Data.csv              # Dataset used for analysis
+Visuals/              # Generated visualizations
+README.md             # Project overview and details
 
 
 🚀 Getting Started
