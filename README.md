@@ -15,6 +15,7 @@ NumPy for numerical operations
 
 Jupyter Notebook for coding and documentation
 
+
 🔎 Analysis Highlights
 
 Bar Charts to compare phone model popularity
@@ -24,6 +25,7 @@ Scatter Plots to evaluate price vs. ratings
 Box Plots to analyze battery health variability
 
 Heat Maps to uncover brand trends
+
 
 📈 Key Insights
 
@@ -35,12 +37,14 @@ Battery health tends to be more consistent in iPhone models.
 
 No strong correlation was found between price and user ratings.
 
+
 📂 Project Structure
 
 ├── Project.ipynb         # Jupyter Notebook with code and analysis
 ├── Data.csv              # Dataset used for analysis
 ├── Visuals/              # Generated visualizations
 └── README.md             # Project overview and details
+
 
 🚀 Getting Started
 
@@ -55,6 +59,7 @@ pip install pandas matplotlib seaborn numpy
 Run the Jupyter Notebook:
 
 jupyter notebook Project.ipynb
+
 
 📧 Contact
 
